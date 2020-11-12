@@ -2,4 +2,6 @@ Este es el titulo del documento
 
 Por aquí invento un párrafo.
 
-Conclusión: no hay onclusión.
+Conclusión: no hay conclusión.
+
+Agrego un cambio.
